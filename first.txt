@@ -4,3 +4,5 @@ Gitの練習をしてきましょう
 gitaddとか
 gotcommitとか
 gitrmなどやってみました
+
+git statusもやってみた
