@@ -6,3 +6,4 @@ gotcommitとか
 gitrmなどやってみました
 
 git statusもやってみた
+git diff
